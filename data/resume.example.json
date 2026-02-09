@@ -1,80 +1,87 @@
 {
   "name": "Gilson Bravo F. Chipombo",
-  "title": "IT Infrastructure & Systems • Backend Development",
+  "title": "Software & Backend Development • Systems Engineering",
   "email": "fernandochipombo@email.com",
-  "phone_e164": "+244900000000",
+  "phone_e164": "+244935626001",
   "phone_display": "+244 935 626 001",
   "location": "Luanda, Angola",
   "github_url": "https://github.com/Gilson-chipombo",
   "linkedin_url": "https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/",
   "website_url": "https://gilsonchipombo.vercel.app/",
 
-  "summary": "IT professional with focus on infrastructure and information systems, with solid foundation in computer networks, system administration, and information security. Strong background in backend development and API integration, enabling effective collaboration between infrastructure and application layers. Motivated to work in critical environments, contributing to system stability, security, and continuous improvement of technological services.",
+  "summary": "Software-focused IT student with strong backend development skills and a solid foundation in systems, computer networks, and information security. Experience with Python for automation and data analysis fundamentals, as well as building reliable APIs and integrating services. Interested in engineering-driven environments where software supports critical systems, automation, and digital operations.",
 
   "skills": [
     {
-      "group": "Infrastructure & Systems",
+      "group": "Software & Backend Development",
       "items": [
-        "Computer Networks(CCNA)",
-        "System Administration",
+        "Python",
+        "Node.js",
+        "JavaScript",
+        "Backend Development",
+        "RESTful APIs",
+        "Security"
+      ]
+    },
+    {
+      "group": "Systems & Infrastructure Fundamentals",
+      "items": [
         "Linux Operating Systems",
-        "Monitoring and Availability Concepts",
+        "System Administration Concepts",
+        "Computer Networks (CCNA)",
+        "Monitoring and Reliability Concepts",
         "Basic Security Practices"
       ]
     },
     {
-      "group": "Programming & Scripting",
-      "items": [
-        "JavaScript",
-        "Node.js",
-        "Backend Development",
-        "REST APIs"
-      ]
-    },
-    {
-      "group": "Databases",
+      "group": "Data & Databases",
       "items": [
         "PostgreSQL",
         "MySQL",
-        "Data Modeling Concepts"
+        "SQL Queries",
+        "Data Modeling",
+        "Data Analysis Fundamentals"
       ]
     },
     {
-      "group": "Cloud & Virtualization",
+      "group": "Automation & Cloud Fundamentals",
       "items": [
+        "Python Scripting",
+        "Shell Scripting",
         "Cloud Fundamentals",
-        "Containerization Concepts",
-        "Docker Basics"
+        "Docker Basics",
+        "Containerization Concepts"
       ]
     },
     {
-      "group": "Tools",
+      "group": "Tools & Engineering Practices",
       "items": [
         "Git",
         "GitHub",
         "CI/CD Concepts",
-        "Command Line"
+        "Command Line",
+        "Technical Documentation"
       ]
     }
   ],
 
   "projects": [
     {
-      "title": "Backend System with Secure APIs",
-      "stack": "Node.js, REST APIs, PostgreSQL",
-      "bullets": [
-        "Developed backend services with authentication, access control, and data validation",
-        "Designed APIs considering security, performance, and maintainability",
-        "Integrated application logic with database systems following structured data models"
-      ]
+       "title": "Infra-Watch – Infrastructure Monitoring and Alerting System",
+       "stack": "Node.js, REST APIs, PostgreSQL",
+       "bullets": [
+         "Designed and developed an infrastructure monitoring system to track service availability and system health",
+         "Implemented alerting mechanisms to notify potential failures and abnormal behavior in monitored components",
+         "Built backend APIs to collect, store, and analyze monitoring data, focusing on reliability, performance, and data integrity"
+       ]
     },
     {
-      "title": "System Monitoring and Automation Scripts",
-      "stack": "Shell Script, Linux",
+      "title": "Automation and Data Handling Scripts",
+      "stack": "Python, Linux",
       "bullets": [
-        "Created scripts to automate routine operational tasks",
-        "Applied logging and basic monitoring concepts to improve system visibility",
-        "Focused on reliability, error handling, and clear documentation"
+        "Developed Python scripts for task automation and basic data processing",
+        "Worked with structured data to extract, transform, and analyze information",
+        "Focused on code clarity, error handling, and maintainability"
       ]
     }
   ],
@@ -85,22 +92,22 @@
       "company": "Technology Services Company",
       "date": "2021 — 2023",
       "bullets": [
-        "Provided technical support for systems, applications, and network-related issues",
-        "Assisted in system troubleshooting and incident prioritization",
-        "Collaborated with technical and non-technical teams to ensure service continuity"
+        "Provided technical support for systems, applications, and network environments",
+        "Participated in troubleshooting activities involving software and system issues",
+        "Collaborated with teams to maintain service availability and operational continuity"
       ]
     }
   ],
 
   "education": [
     {
-      "title": "Bachelor’s Degree in Computer Science (4º year)",
-      "subtitle": "ISUTIC / University",
+      "title": "Bachelor’s Degree in Computer Science (4th year)",
+      "subtitle": "ISUTIC",
       "date": "In progress"
     },
     {
-      "title": "42 Luanda",
-      "subtitle": "Software Engineer",
+      "title": "Software Engineering Program",
+      "subtitle": "42 Luanda",
       "date": "In progress"
     }
   ],
@@ -110,6 +117,10 @@
       "name": "English",
       "level": "Intermediate",
       "note": "Technical reading and professional communication"
+    },
+    {
+      "name": "Portuguese",
+      "level": "Native"
     }
   ]
 }
