@@ -1,94 +1,107 @@
 {
-  "name": "FABRICIO TRINDADE",
-  "title": "Full Stack • Web Development",
-  "email": "example@email.com",
-  "phone_e164": "+10000000000",
-  "phone_display": "(00) 00000-0000",
-  "location": "Remote / Brazil",
-  "linkedin_url": "https://www.linkedin.com/in/example-profile",
-  "github_url": "https://github.com/example-user",
-  "website_url": "https://example.com",
+  "name": "Gilson Bravo F. Chipombo",
+  "title": "IT Infrastructure & Systems • Backend Development",
+  "email": "fernandochipombo@email.com",
+  "phone_e164": "+244900000000",
+  "phone_display": "+244 935 626 001",
+  "location": "Luanda, Angola",
+  "github_url": "https://github.com/Gilson-chipombo",
+  "linkedin_url": "https://www.linkedin.com/in/gilson-bravo-fernando-chipombo-aa0ba4209/",
+  "website_url": "https://gilsonchipombo.vercel.app/",
 
-  "summary": "Computer Science student with a strong foundation in programming logic and hands-on experience building web applications and APIs. Familiar with cloud fundamentals, system troubleshooting, and structured problem-solving. Seeking an internship focused on cloud infrastructure, monitoring, and automation, with emphasis on clean architecture and ATS-friendly documentation.",
+  "summary": "IT professional with focus on infrastructure and information systems, with solid foundation in computer networks, system administration, and information security. Strong background in backend development and API integration, enabling effective collaboration between infrastructure and application layers. Motivated to work in critical environments, contributing to system stability, security, and continuous improvement of technological services.",
 
   "skills": [
     {
-      "group": "Programming",
-      "items": ["JavaScript", "Node.js", "HTML", "CSS", "SQL"]
+      "group": "Infrastructure & Systems",
+      "items": [
+        "Computer Networks(CCNA)",
+        "System Administration",
+        "Linux Operating Systems",
+        "Monitoring and Availability Concepts",
+        "Basic Security Practices"
+      ]
     },
     {
-      "group": "Frameworks",
-      "items": ["Next.js", "Express.js", "React"]
+      "group": "Programming & Scripting",
+      "items": [
+        "JavaScript",
+        "Node.js",
+        "Backend Development",
+        "REST APIs"
+      ]
     },
     {
       "group": "Databases",
-      "items": ["PostgreSQL", "MongoDB", "ORM concepts"]
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "Data Modeling Concepts"
+      ]
     },
     {
-      "group": "Cloud & Infrastructure",
+      "group": "Cloud & Virtualization",
       "items": [
-        "Cloud fundamentals",
-        "Monitoring concepts",
-        "Networking basics",
-        "Linux basics"
+        "Cloud Fundamentals",
+        "Containerization Concepts",
+        "Docker Basics"
       ]
     },
     {
       "group": "Tools",
-      "items": ["Git", "GitHub", "Docker", "CI/CD concepts"]
+      "items": [
+        "Git",
+        "GitHub",
+        "CI/CD Concepts",
+        "Command Line"
+      ]
     }
   ],
 
   "projects": [
     {
-      "title": "Full Stack Web Application",
+      "title": "Backend System with Secure APIs",
       "stack": "Node.js, REST APIs, PostgreSQL",
       "bullets": [
-        "Designed and implemented a full stack web application with a clear separation of concerns",
-        "Built RESTful APIs with authentication and basic access control",
-        "Applied structured data modeling and version control best practices"
-      ],
-      "links": [
-        {
-          "label": "Repository",
-          "url": "https://github.com/example-user/sample-project"
-        }
+        "Developed backend services with authentication, access control, and data validation",
+        "Designed APIs considering security, performance, and maintainability",
+        "Integrated application logic with database systems following structured data models"
       ]
     },
     {
-      "title": "Personal Automation Tool",
-      "stack": "JavaScript, Node.js",
+      "title": "System Monitoring and Automation Scripts",
+      "stack": "Shell Script, Linux",
       "bullets": [
-        "Developed a small automation script to streamline repetitive tasks",
-        "Focused on code readability, maintainability, and documentation",
-        "Practiced modular design and error handling"
+        "Created scripts to automate routine operational tasks",
+        "Applied logging and basic monitoring concepts to improve system visibility",
+        "Focused on reliability, error handling, and clear documentation"
       ]
     }
   ],
 
   "experience": [
     {
-      "role": "Technical Support Analyst",
-      "company": "Example Technology Company",
-      "date": "2021 — Present",
+      "role": "IT Support and Systems Assistant",
+      "company": "Technology Services Company",
+      "date": "2021 — 2023",
       "bullets": [
-        "Provided technical support and troubleshooting for systems and network-related issues",
-        "Assumed operational coordination responsibilities on multiple occasions, organizing tasks and prioritizing incidents",
-        "Communicated technical problems clearly to both technical and non-technical stakeholders"
+        "Provided technical support for systems, applications, and network-related issues",
+        "Assisted in system troubleshooting and incident prioritization",
+        "Collaborated with technical and non-technical teams to ensure service continuity"
       ]
     }
   ],
 
   "education": [
     {
-      "title": "Bachelor’s Degree in Computer Science",
-      "subtitle": "Example University",
-      "date": "In progress — Expected 2029"
+      "title": "Bachelor’s Degree in Computer Science (4º year)",
+      "subtitle": "ISUTIC / University",
+      "date": "In progress"
     },
     {
-      "title": "Associate Degree in Systems Analysis and Development",
-      "subtitle": "Example University",
-      "date": "Completed — 2023"
+      "title": "42 Luanda",
+      "subtitle": "Software Engineer",
+      "date": "In progress"
     }
   ],
 
@@ -96,7 +109,7 @@
     {
       "name": "English",
       "level": "Intermediate",
-      "note": "Technical reading and conversational skills"
+      "note": "Technical reading and professional communication"
     }
   ]
 }
